@@ -1,3 +1,25 @@
 body {
-    background-color: goldenrod;
+    background-color: #CEDEEB;
+}
+
+.container {
+    background-color: #FBFAE6;
+}
+
+footer {
+    background-color: #EE3F2A;
+}
+
+.flex-containers {
+    display: flex;
+    display: -webkit-flex;
+    width: 100%;
+}
+
+.flex-section {
+
+}
+
+.flex-item {
+    margin: 1em;
 }
